@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="shoppingCart/CartTableViewController.cs">
+    <Files>
+      <File FileName="shoppingCart/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="shoppingCart/ViewController.cs" Line="164" Column="32" />
+      <File FileName="shoppingCart/Items.cs" Line="16" Column="22" />
+      <File FileName="shoppingCart/CartTableViewController.cs" Line="54" Column="8" />
+      <File FileName="shoppingCart/LaunchScreen.storyboard" />
+      <File FileName="shoppingCart/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.shoppingCart PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.674E3C09-3E4B-4342-ADA1-975A0BD74F10">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.shoppingCart>
+</Properties>

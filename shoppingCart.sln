@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoppingCart", "shoppingCart\shoppingCart.csproj", "{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Release|iPhone.Build.0 = Release|iPhone
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{643008AB-7F29-4F61-A91B-D0C5FBF4B6A9}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

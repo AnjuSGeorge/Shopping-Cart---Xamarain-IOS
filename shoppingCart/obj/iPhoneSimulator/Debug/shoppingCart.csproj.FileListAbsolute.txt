@@ -1,0 +1,13 @@
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/shirt.png
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/cart-picture-png-image-600.png
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/shoppingCart.csproj.CoreCompileInputs.cache
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/bin/iPhoneSimulator/Debug/shoppingCart.exe
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/bin/iPhoneSimulator/Debug/shoppingCart.pdb
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/shoppingCart.exe
+/Users/anjugeorge/Projects/shoppingCart/shoppingCart/obj/iPhoneSimulator/Debug/shoppingCart.pdb
